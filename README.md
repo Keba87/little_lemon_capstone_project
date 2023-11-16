@@ -10,18 +10,17 @@ To get started, follow these steps:
 git clone https://github.com/Keba87/little-lemon-restaurant.git
 or download zip file
 
-2. In the project directory, you can run:
-Installation
+2. Installation
 To install the necessary dependencies, use:
 **npm install**
 This will install all required packages to run the application.
 
-3. Running Tests
+4. Running Tests
 To execute tests, use:
 **npm test**
 This command will run the test suite for the project.
 
-4. Starting the Application
+5. Starting the Application
 To start the application, use:
 **npm start**
 The app will be served at http://localhost:3000.
