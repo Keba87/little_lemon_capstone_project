@@ -7,7 +7,7 @@ This is the final Capstone project for the Front-End Developer Meta course, feat
 To get started, follow these steps:
 
 1. Clone this repository.  
-git clone https://github.com/Keba87/little-lemon-restaurant.git  
+git clone https://github.com/Keba87/little_lemon_capstone_project.git
 or download zip file  
 
 2. To install the necessary dependencies, use:  
