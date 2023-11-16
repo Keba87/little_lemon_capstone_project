@@ -1,36 +1,37 @@
-# Little Lemon Restaurant Website
+# Little Lemon Restaurant Booking System
 
-This project is the final capstone for the Front-End Developer Meta course. It's a website for the Little Lemon restaurant featuring a simple booking table system with a fake API.
+This is the final Capstone project for the Front-End Developer Meta course, featuring a website for the Little Lemon restaurant with a simple booking table system and a fake API.
 
-Table of Contents
-Overview
-Folder Structure
-Installation
-Running Tests
-Starting the Application
-Overview
-The Little Lemon Restaurant Website is built using React and provides a user-friendly interface for customers to explore the restaurant, make bookings, and learn more about its offerings.
+
+## Installation
+
+To get started, follow these steps:
+
+1. Clone this repository.
+git clone https://github.com/Keba87/little-lemon-restaurant.git
+or download zip file
 
 Installation
 To install the necessary dependencies, use:
 
-bash
-Copy code
 npm install
 This will install all required packages to run the application.
 
 Running Tests
 To execute tests, use:
-
-bash
-Copy code
 npm test
 This command will run the test suite for the project.
 
+
 Starting the Application
 To start the application, use:
-
-bash
-Copy code
 npm start
-This will launch the application in development mode.
+The app will be served at http://localhost:3000.
+
+APIs
+Fake API
+The project includes a fake API for handling reservations.
+
+Functions:
+fetchAPI(date): Simulates fetching available booking times for a specific date.
+submitAPI(formData): Simulates submitting booking form data.
