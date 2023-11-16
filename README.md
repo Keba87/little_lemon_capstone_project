@@ -10,8 +10,7 @@ To get started, follow these steps:
 git clone https://github.com/Keba87/little-lemon-restaurant.git  
 or download zip file  
 
-2. Installation  
-To install the necessary dependencies, use:  
+2. To install the necessary dependencies, use:  
 **npm install**  
 This will install all required packages to run the application.  
 
