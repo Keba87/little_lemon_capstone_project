@@ -30,3 +30,5 @@ The project includes a fake API for handling reservations.
 Functions:  
 fetchAPI(date): Simulates fetching available booking times for a specific date.  
 submitAPI(formData): Simulates submitting booking form data.  
+![scrnli_16-11-2023_12-51-52](https://github.com/Keba87/little_lemon_capstone_project/assets/105017262/0928d886-8471-4a98-a159-2a573746dd7e)
+![scrnli_16-11-2023_12-52-36](https://github.com/Keba87/little_lemon_capstone_project/assets/105017262/df42eaad-141e-4bd5-921e-5162552fce52)
